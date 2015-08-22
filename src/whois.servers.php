@@ -37,7 +37,7 @@ return array(
     'tv'       => 'gtld',
     'za.org'   => 'zanet',
     'za.net'   => 'zanet',
-    // Punicode
+    // Punycode
     'xn--p1ai' => 'ru',
 ),
 
